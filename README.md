@@ -1,5 +1,5 @@
 # fakesyslog
-Redirect syslog to stdout/stderr -- useful for minimal alpine containers
+Redirect syslog to stderr -- useful for minimal alpine containers
 
 # Build
 ```sh
