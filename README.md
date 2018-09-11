@@ -10,3 +10,6 @@ make CC=x86_64-linux-musl-gcc clean all
 ```
 export LD_PRELOAD=/fakesyslog.so
 ```
+
+# License
+MIT, based on musl's syslog iirc
